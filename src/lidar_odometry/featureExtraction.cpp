@@ -1,6 +1,6 @@
 #include "utility.h"
 #include "lvi_sam/cloud_info.h"
-
+#测试用
 struct smoothness_t{ 
     float value; // 曲率值
     size_t ind; // 激光点一维索引
