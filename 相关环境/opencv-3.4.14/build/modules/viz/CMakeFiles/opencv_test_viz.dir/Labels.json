@@ -1,0 +1,87 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/test_common.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/test_main.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/test_tutorial2.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/test_tutorial3.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/test_viz3d.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/tests_simple.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/test_common.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		},
+		{
+			"file" : "/home/zhaoyibin/slam/opencv-3.4.14/modules/viz/test/test_precomp.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_viz",
+				"AccuracyTest"
+			]
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_viz",
+			"AccuracyTest"
+		],
+		"name" : "opencv_test_viz"
+	}
+}
